@@ -1,0 +1,25 @@
+{
+  "schema": 1,
+  "checkedAt": "2026-11-27T16:40:24.814566+08:00",
+  "rows": [
+    {
+      "shop": "金球珠寶",
+      "url": "https://www.kamkau.com/trad/home",
+      "kind": "999_reference",
+      "label": "9999/999金(克)",
+      "buy": 873.1,
+      "quotedAt": "2026-11-27T10:00:00+08:00"
+    },
+    {
+      "shop": "金球珠寶",
+      "url": "https://www.kamkau.com/trad/home",
+      "kind": "9999",
+      "label": "9999金粒(克)",
+      "buy": 873.0,
+      "quotedAt": "2026-11-27T10:00:00+08:00"
+    }
+  ],
+  "errors": {
+    "大昌珠寶": "Missing timestamp"
+  }
+}
